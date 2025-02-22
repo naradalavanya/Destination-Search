@@ -42,7 +42,7 @@ class DestinationSearch extends Component {
             <DestinationItem key={destination.id} destination={destination} />
           ))}
         </ul>
-      </div>
+      </div>  
     )
   }
 }
