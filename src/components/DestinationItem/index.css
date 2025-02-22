@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.destination-item {
+  list-style-type: none;
+  text-align: center;
+}
+
+.destination-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.destination-name {
+  font-size: 16px;
+  color: #000000;
+  margin-top: 5px;
+}
